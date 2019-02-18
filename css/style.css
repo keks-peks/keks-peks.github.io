@@ -361,10 +361,6 @@ button:hover {
     right: 40px;
     width: 100px;
   }
-  /*Services*/
-  @media screen and (max-width: 960px){
-    .card{width: 50%;}
-  }
   /* About */
   .aboutMain{
     width: 100vw;
